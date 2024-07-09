@@ -3,7 +3,7 @@ package com.test;
 public class HelloWorld {
 public static void main(String args[] )
 {
-	System.out.println("welcome to jenkin demo projects1 sdfjsdhfvsh");
+	System.out.println("welcome....");
 	
 }
 }
